@@ -1,0 +1,25 @@
+.pg_btn{
+display: inline-block;
+width: 30%;
+padding: 10px;
+font-size: 15px;
+margin: 0 2%;
+border: 1px solid #cccccc;
+background: #f8f8f8;
+text-align: center;
+transition: 0.5s all;
+text-decoration:none !important;
+
+}
+.pg_btn:hover{
+  text-decoration:none;
+  color:inherit;
+}
+.pg_like_btn:hover{
+  background: green;
+  color: #ffffff;
+}
+.pg_dislike_btn:hover{
+  background: rgb(235, 21, 21);
+  color: #ffffff;
+}
