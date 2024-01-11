@@ -3,6 +3,7 @@
  * Plugin Name:       WP Like-dislike Post
  * Description:       Using this plugin you can like or dislike WordPress posts.
  * Author:            Waqar Ahmed
+ * Author URL:        https://devwaqarahmed.github.io/portfolio/
  */
 
 //define plugin directories
